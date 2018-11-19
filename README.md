@@ -2,12 +2,12 @@ Github Basics
 ----------------
 ### Github Markdown Practice:
 Heading
-# This is <h1> tag
-## This is <h2> tag
-### This is <h3> tag
-#### This is <h4> tag
-##### This is <h5> tag
-###### This is <h6> tag
+# This is `<h1>` tag
+## This is `<h2>` tag
+### This is `<h3>` tag
+#### This is `<h4>` tag
+##### This is `<h5>` tag
+###### This is `<h6>` tag
 
 
 __Lorem Ipsum__ has been the industry's standard **dummy** text ever since the *1500s*, when an [unknown](https://www.lipsum.com/) printer took a galley of type _and_ scrambled it to make a type specimen book.
