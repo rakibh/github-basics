@@ -21,8 +21,8 @@ __Lorem Ipsum__ has been the industry's standard **dummy** text ever since the *
 
 
 ###### Blockquotes
-> It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
-> - Lorem Ipsum
+> Coffee. The finest organic suspension ever devised... I beat the Borg with it.
+> - Captain Janeway
 
 
 ##### Code
