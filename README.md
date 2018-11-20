@@ -22,7 +22,7 @@ __Lorem Ipsum__ has been the industry's standard **dummy** text ever since the *
 
 ###### Blockquotes
 > It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
->- _Lorem Ipsum_
+> - Lorem Ipsum
 
 
 ##### Code
