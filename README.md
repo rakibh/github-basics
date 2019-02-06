@@ -37,7 +37,17 @@ __Lorem Ipsum__ has been the industry's standard **dummy** text ever since the *
     text-align: center;
 }
 ```
-
+```
+.dr-profile {
+    background-color: #ddd;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+    height: 380px;
+    position: relative;
+    text-align: center;
+}
+```
 ##### List Items (Unordered list)
 * List iten 1
 * List item 2
